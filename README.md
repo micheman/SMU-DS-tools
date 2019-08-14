@@ -1,2 +1,2 @@
 # SMU-DS-tools
-Misc helpful tools &amp; code
+Misc helpful tools for MS-Excel macros/VBA
